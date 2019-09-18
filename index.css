@@ -1,0 +1,8 @@
+.derecha{
+    align-items: right;
+    float: right;
+}
+.terminada{
+    color: grey;
+    text-decoration: line-through;
+}
